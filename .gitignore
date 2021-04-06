@@ -1,3 +1,3 @@
-model/word2vec_baike
-model/word2vec_baike.*
+model/*
 __pycache__/*
+idea/*
